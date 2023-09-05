@@ -1,0 +1,17 @@
+Trip
+ID Destination Start date End date	DurationTraveler	TravelerTravelerTraveler	AccommodationAccommodationTransportationTransportation
+	(days)	name	age	gender nationality type	cost	type	cost	
+	1London, UK5/1/2023	5/8/2023	7John Smith	35Male	American	Hotel		1200Flight		600
+Phuket, 2Thailand	6/15/2023 6/20/2023	5Jane Doe	28Female Canadian	Resort		800Flight		500
+Bali,
+3Indonesia	7/1/2023	7/8/2023	7David Lee	45Male	Korean	Villa		1000Flight		700
+New York,
+4USA	8/15/2023 8/29/2023	Sarah 14Johnson	29Female British	Hotel		2000Flight		1000
+Tokyo,
+5Japan	9/10/2023 9/17/2023	Kim 7Nguyen	26Female VietnameseAirbnb		700Train		200
+Paris,
+6France	10/5/2023 10/10/2023	Michael
+5Brown	42Male	American	Hotel		1500Flight		800
+Sydney,
+7Australia	11/20/202311/30/2023	10Emily Davis	33Female Australian	Hostel		500Flight		1200
+Rio de
